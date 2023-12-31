@@ -4438,6 +4438,7 @@ h6, .h6 {
       margin-right: 15px; }
 
 .project-details-info {
+  margin-bottom: 40px;
   padding: 40px 60px;
   border-radius: 15px;
   background-color: var(--primary-color); }
@@ -4451,7 +4452,7 @@ h6, .h6 {
       padding-right: 35px; } }
 
 .pd-info-item:not(:last-child) {
-  margin-bottom: 35px; }
+  margin-bottom: 25px; }
 
 .pd-info-item span {
   display: block;
@@ -4463,7 +4464,7 @@ h6, .h6 {
   font-family: "Inter", sans-serif; }
   @media only screen and (min-width: 376px) {
     .pd-info-item h5 {
-      font-size: 22px; } }
+      font-size: 20px; } }
 
 .tag-share {
   -ms-flex-wrap: wrap;
