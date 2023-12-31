@@ -3184,6 +3184,7 @@ h6, .h6 {
       width: 100%;
       position: absolute; } }
   .main-menu .navbar-collapse li {
+    font-size: 22px;
     padding: 40px 20px;
     display: -webkit-box;
     display: -ms-flexbox;
@@ -3193,7 +3194,7 @@ h6, .h6 {
     align-items: center;
     -webkit-box-pack: justify;
     -ms-flex-pack: justify;
-    justify-content: space-between; }
+    justify-content: flex-end; }
     @media only screen and (max-width: 1399px) {
       .main-menu .navbar-collapse li {
         padding-left: 10px;
@@ -5548,6 +5549,13 @@ blockquote {
     margin: 0 22px 5px; }
     .footer-bottom-nav li a:hover {
       color: white; }
+
+      .caption {
+        padding-bottom: 50px; /* 하단 패딩을 20px로 지정 */
+    }
+
+
+
 <<<<<<< HEAD
 
 /* starbucks image overlay */
