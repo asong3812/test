@@ -1,12 +1,6 @@
 @charset "UTF-8";
-/*----------------------------------------------------------------------
-    Template Name: Noxfolio - Personal Portfolio Resume HTML Template
-    Template URI: https://demo.webtend.net/html/noxfolio/
-    Author: WebTend
-    Author URI:  https://webtend.net/
-    Version: 1.0
 
-    Note: This is Main Style CSS File. */
+
 /*----------------------------------------------------------------------
 	CSS INDEX
 	----------------------
@@ -465,7 +459,7 @@ a.theme-btn {
     margin-top: 2px;
     margin-right: 12px;
     color: var(--primary-color);
-    font-family: "Font Awesome 5 Pro"; }
+    font-family: "Font Awesome 5"; }
   .list-style-one li:not(:last-child) {
     margin-bottom: 20px; }
 
@@ -504,7 +498,7 @@ a.theme-btn {
     line-height: 30px;
     border-radius: 50%;
     text-align: center;
-    font-family: "Font Awesome 5 Pro"; }
+    font-family: "Font Awesome 5"; }
   .list-style-two li:not(:last-child) {
     margin-bottom: 25px; }
 
@@ -4552,7 +4546,7 @@ h6, .h6 {
       line-height: 60px;
       border-radius: 50%;
       text-align: center;
-      font-family: "Font Awesome 5 Pro"; }
+      font-family: "Font Awesome 5"; }
   .testimonial-item .text {
     margin-bottom: 30px; }
   .testimonial-item .testi-des h5 {
@@ -4638,7 +4632,7 @@ h6, .h6 {
           font-size: 18px;
           margin-right: 15px;
           color: var(--primary-color);
-          font-family: 'Font Awesome 5 Pro'; }
+          font-family: 'Font Awesome 5'; }
         .pricing-item .pricing-details ul li.unable {
           color: white;
           opacity: 0.35; }
@@ -4916,7 +4910,7 @@ blockquote {
     font-size: 45px;
     font-weight: 300;
     color: var(--primary-color);
-    font-family: "Font Awesome 5 Pro"; }
+    font-family: "Font Awesome 5"; }
   @media only screen and (max-width: 767px) {
     blockquote {
       font-size: 22px;
@@ -5204,7 +5198,7 @@ blockquote {
       line-height: 25px;
       border-radius: 50%;
       text-align: center;
-      font-family: "Font Awesome 5 Pro"; }
+      font-family: "Font Awesome 5"; }
     .accordion-item .accordion-button:not(.collapsed):before {
       -webkit-transform: rotate(90deg);
       -ms-transform: rotate(90deg);
